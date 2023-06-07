@@ -10,7 +10,7 @@ Hi there, I am Shreyas Shukla 👋
 Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1643514977/10031/60fps_parrot.gif?1643514977" width="20" />
 
 * 🖥️ I recently completed my Master's in Computer Science from Cornell University.
-* 👨‍💻 I majorly code in Python and JavaScript.
+* 👨‍💻 I majorly code in JavaScript and Python. I love Front End Web Developement.
 * 🎮 I love playing Assassin's Creed games, feel free to connect with me on PSN too 😁.
 * 😄 Pronouns: He/him
 
