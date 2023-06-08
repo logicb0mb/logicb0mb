@@ -22,10 +22,10 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 </p>
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicb0mb&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicb0mb&hide=stars&count_private=true&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logicb0mb&hide=stars&count_private=true&show_icons=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
