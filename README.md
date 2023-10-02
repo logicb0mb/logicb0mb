@@ -14,7 +14,9 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 * 🎮 I love playing Assassin's Creed games, feel free to connect with me on PSN too 😁.
 * 😄 Pronouns: He/him
 
+<!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
 
 <!--
 <p align="left">
